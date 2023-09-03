@@ -5,6 +5,22 @@
   <br/>
   <br/>
 </p>
+<h3 align="center">
+    <p>✨ Medical ChatBot using Textbase ✨</p>
+</h3>
+<p>✨ This chatbot shall be helpful in a lot of usecases ✨</p>
+  <p>✨ 1. It provides a positive vibe to patients which helps them open up. ✨</p>
+    <p>✨ 2. It gives them exercises, first aid, habitual change recommendations. ✨</p>
+  <p>✨ 3. It also tells what kind of a specialist shall help the patient the best. ✨</p>
+  <p>✨ 4. if the patient wishes to seek professional help, the bot creates a summary of patient's concerns to help them communicate with the doctors in a better manner. ✨</p>
+  <p>✨ 5. It tries to identify if the patient has a sad mood or has depressing or suicidal thoughts and provides necessary positive thoughts and help for the same. ✨</p>
+  <p>✨ 6. It ends the conversation on an optimistic note for the patients to feel a lot better. ✨</p>
+<p>✨ Future scope can be on the lines of: ✨</p>
+  <p>✨ 1. Collecting patient data with their consent for better model training ✨</p>
+  <p>✨ 2. Flagging suicidal thoughts and immediately re-directing to professional suicide helpline in extreme cases ✨</p>
+  <p>✨ 3. In a hospital kind of setup, the chatbot can ask if professional help is required, it sends the summary to the concerned specialist and the specialist can address the issue virtually/in-person depending on severity ✨</p>
+  <p>✨ 4. This shall save time and overhead expenses for patients as well as medical facilities ✨</p>
+  <p>✨ 5. Can be modified to suite as a personal therapist for patients ✨</p>
 
 <p align="center">
     <a href="https://docs.textbase.ai">
